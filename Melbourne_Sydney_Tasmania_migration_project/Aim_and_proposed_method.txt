@@ -1,5 +1,0 @@
-For this project my aim is to help those who are considering in moving to Tasmania from Melbourne or Sydney and to help them find either similar or dissimilar suburbs from their hometown.
-I aim to develop an unsupervised learning approach with a clustering algorithm to find similar and dissimilar cities between Sydney, Melbourne and Tasmania.
-In order to do this, I will scrape the local neighbourhoods for each capital city from Wikipedia and then find there latitude and longitude coordinates from Google Maps Geocoding.
-I will then use Foursquare to find the top 100 venues within 500 m for each neighbourhood and determine the similarity and dissimilarity of each neighbourhood from each other by clustering the neighbourhoods with their most popular venues as the attributes.
-This will be performed with the clustering algorithm, K-means clustering.
